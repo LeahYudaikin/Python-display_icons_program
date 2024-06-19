@@ -1,4 +1,4 @@
-# python--Display-Icons-Program
+# Python-display_icons_program
 This Python program allows users to select and display icons fetched from the GitHub Emojis API.
 
 ## Project Overview
