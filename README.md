@@ -37,10 +37,10 @@ pip install -r requirements.txt
 
 ### 3. Run the Program
 
-Execute the main program `display_icons.py`:
+Execute the main program `main.py`:
 
 ```bash
-python display_icons.py
+python main.py
 ```
 
 ## Program Features
